@@ -92,5 +92,12 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=kaushik0010&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kaushik010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik010" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kaushik010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaushik010" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kaushik_010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaushik_010" height="30" width="40" /></a>
+</p>
+
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/kaushik0010.kaushik0010.svg)
