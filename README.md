@@ -26,4 +26,4 @@ AI-assisted security monitoring & log analysis system.
 - Make tradeoffs explicitly
 - Use AI as a multiplier, not a crutch
 
-📫 Reach me: [LinkedIn](linkedin.com/in/kaushik010/) | [Email](mailto: paykolikaushikb@gmail.com)
+📫 Reach me: [LinkedIn](linkedin.com/in/kaushik010/) | [Email](paykolikaushikb@gmail.com)
