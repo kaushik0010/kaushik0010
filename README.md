@@ -14,7 +14,7 @@ A fintech-style app inspired by real-world savings groups.
 - Built group + individual savings flows with admin-controlled campaigns
 - Implemented auth, wallet tracking, dashboards, and safe deletion rules
 - Tech: Next.js (App Router), MongoDB, NextAuth, Tailwind, ShadCN
-👉 Repo: [link]
+- 👉 Repo: [https://github.com/kaushik0010/KOSH](https://github.com/kaushik0010/KOSH)
 
 #### 🛡 SOC-AI (Hackathon Project)
 AI-assisted security monitoring & log analysis system.
@@ -26,4 +26,4 @@ AI-assisted security monitoring & log analysis system.
 - Make tradeoffs explicitly
 - Use AI as a multiplier, not a crutch
 
-📫 Reach me: LinkedIn | Email
+📫 Reach me: [LinkedIn](linkedin.com/in/kaushik010/) | [Email](mailto: paykolikaushikb@gmail.com)
