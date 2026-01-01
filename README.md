@@ -25,5 +25,6 @@ AI-assisted security monitoring & log analysis system.
 - Start with unclear problems, write my own specs
 - Make tradeoffs explicitly
 - Use AI as a multiplier, not a crutch
+- 👉 Repo: [https://github.com/kaushik0010/soc-ai](https://github.com/kaushik0010/soc-ai)
 
 📫 Reach me: [LinkedIn](linkedin.com/in/kaushik010/) | [Email](paykolikaushikb@gmail.com)
