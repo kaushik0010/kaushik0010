@@ -7,6 +7,8 @@ Full Stack Software Engineer focused on building scalable, rule-driven web syste
 - Rule-driven platforms where correctness, edge cases, and fairness matter
 - Production-ready APIs with validation, indexing, and error handling
 
+<!-- REPODECK:START -->
+
 ### 🚀 Featured Projects
 #### 💰 KOSH — Group & Individual Savings Platform
 A rule-driven savings platform inspired by real-world informal finance systems.
@@ -26,6 +28,8 @@ AI-assisted security monitoring & log analysis system.
 - Implemented Human-in-the-Loop workflows
 - Built scalable backend schema for audit tracking
 - 👉 Repo: [https://github.com/kaushik0010/soc-ai](https://github.com/kaushik0010/soc-ai)
+
+<!-- REPODECK:END -->
 
 ### 🧠 Technical Focus
 - REST API Design
