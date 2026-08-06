@@ -8,27 +8,9 @@ Full Stack Software Engineer focused on building scalable, rule-driven web syste
 - Production-ready APIs with validation, indexing, and error handling
 
 <!-- REPODECK:START -->
+### ⭐ Test Project
 
-### 🚀 Featured Projects
-#### 💰 KOSH — Group & Individual Savings Platform
-A rule-driven savings platform inspired by real-world informal finance systems.
-
-- Designed contribution windows with late penalty enforcemen
-- Modeled MongoDB schemas with compound indexes
-- Built REST APIs with authentication (NextAuth) and RBAC
-- Implemented idempotent contribution logic
-- Designed safe account deletion & governance rules
-- Built dashboards for contribution tracking and transparency
-- Tech: Next.js (App Router), MongoDB, NextAuth, Tailwind, ShadCN
-- 👉 Repo: [https://github.com/kaushik0010/KOSH](https://github.com/kaushik0010/KOSH)
-
-#### 🛡 SOC-AI (Hackathon Project)
-AI-assisted security monitoring & log analysis system.
-- Designed structured LLM-based log triage system
-- Implemented Human-in-the-Loop workflows
-- Built scalable backend schema for audit tracking
-- 👉 Repo: [https://github.com/kaushik0010/soc-ai](https://github.com/kaushik0010/soc-ai)
-
+Automatically updated at: 2026-08-06T10:40:35.598Z
 <!-- REPODECK:END -->
 
 ### 🧠 Technical Focus
