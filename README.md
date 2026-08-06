@@ -14,6 +14,12 @@ A temporary project used for testing the GitHub API connection.
 
 - 🏷️ **Category:** Experiment
 - 🛠 **Tech:** TypeScript · Node.js
+
+---
+
+### RepoDeck
+
+- 🛠 **Tech:** TypeScript · Node.js
 <!-- REPODECK:END -->
 
 ### 🧠 Technical Focus
