@@ -8,9 +8,12 @@ Full Stack Software Engineer focused on building scalable, rule-driven web syste
 - Production-ready APIs with validation, indexing, and error handling
 
 <!-- REPODECK:START -->
-### ⭐ Test Project
+### ⭐ RepoDeck Test Project
 
-Automatically updated at: 2026-08-06T10:40:35.598Z
+A temporary project used for testing the GitHub API connection.
+
+- 🏷️ **Category:** Experiment
+- 🛠 **Tech:** TypeScript · Node.js
 <!-- REPODECK:END -->
 
 ### 🧠 Technical Focus
