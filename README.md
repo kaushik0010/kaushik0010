@@ -13,7 +13,22 @@ I build software systems, developer tools, web applications, and games. I'm part
 ## 🚀 Projects
 
 <!-- REPODECK:START -->
+### ⭐ [RepoDeck](https://github.com/kaushik0010/repodeck)
 
+An automated CI/CD pipeline that discovers repository metadata and idempotently syncs a unified project showcase to your GitHub Profile README.
+
+- 🏷️ **Category:** Automation
+- 🛠 **Tech:** TypeScript · Node.js · Octokit · Zod · GitHub Actions
+- 🔗 [GitHub Repository](https://github.com/kaushik0010/repodeck)
+
+---
+
+### ⭐ RepoDeck Test Project
+
+A temporary project used for testing the GitHub API connection.
+
+- 🏷️ **Category:** Experiment
+- 🛠 **Tech:** TypeScript · Node.js
 <!-- REPODECK:END -->
 
 ## 📚 Currently exploring
